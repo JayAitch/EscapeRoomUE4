@@ -6,11 +6,11 @@
 */DerivedDataCache
 */Itermediate
 */Saved
-BuildingEscape/Content/StarterContent
-Scratch/Content/StarterContent
+EscapeRoomUE4/Content/StarterContent
+EscapeRoomUE4/Content/StarterContent
 
 ##########################
 ###### VS Generated ######
 ##########################
 *.VC.db
-Learning/Content/StarterContent/
+EscapeRoomUE4/Content/StarterContent/
