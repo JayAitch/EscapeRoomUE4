@@ -1,0 +1,16 @@
+##########################
+#### Unreal Generated ####
+##########################
+*/Intermediate
+*/Binaries
+*/DerivedDataCache
+*/Itermediate
+*/Saved
+BuildingEscape/Content/StarterContent
+Scratch/Content/StarterContent
+
+##########################
+###### VS Generated ######
+##########################
+*.VC.db
+Learning/Content/StarterContent/
